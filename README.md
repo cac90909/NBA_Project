@@ -6,3 +6,5 @@ Output is given in a readable format.
 Output will take a couple minutes to be printed to screen due to the large amount of pages that need to be analyzed.
 
 Special thanks to basketball-reference.com for providing the statistics used in this program.
+
+Post is featured on: https://cac90909.github.io/thecycle/pages/coding/nba_spread.html
